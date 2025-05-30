@@ -1,0 +1,15 @@
+Cluster 5:
+********************
+Hole 496: ['monštranec', 'ciborij', 'štolo', 'ogeren', 'plajš', 'ogernjen', 'škerlatast', 'ternji', 'gajžlan', 'tepenje', 'zasramovanje', 'zasmehovanje', 'obrekovanje', 'nespodobnost', 'nespodoben', 'pregrešen', 'nečimern', 'nečimernost', 'vost', 'krotkost', 'pežljivost', 'poter', 'vsmilenje', 'vsmilen', 'ofrati', 'ofer', 'nekervav', 'nekervavo', 'altarja', 'tabernakelj', 'altar']
+
+Cluster 0:
+********************
+Hole 265: ['ubožati', 'opomoči', 'okrevati', 'odleči', 'umiriti', 'potolažiti', 'zjokati', 'smiliti', 'ubog', 'ubožen', 'zadolžen', 'premožen']
+Hole 292: ['sklicati', 'posvetovati', 'pogovoriti', 'pomenkovati', 'zabavati', 'zabava', 'veselica', 'gostija', 'povabljen', 'povabiti', 'prisesti', 'pristopiti', 'stopiti', 'iti', 'priti', 'pozvati', 'poklicati']
+Hole 345: ['prekanjen', 'zvijačen', 'predrzen', 'nesramno', 'hudobno', 'zaničljivo', 'nevoljno', 'dragar', 'krčmarica', 'krčmar', 'polič', 'prigrizniti', 'pečenka', 'puran', 'pišče', 'mačka', 'lisjak', 'lisica']
+Hole 370: ['blebetati', 'molčati', 'mrmrati', 'polglasno', 'smehljaje', 'gospodična', 'koketen', 'igralka', 'balet', 'ples', 'veselica', 'zabava', 'zabavati', 'kramljati', 'razgovarjati', 'govoriti']
+Hole 373: ['culica', 'kovček', 'sturm', 'groll', 'mučno', 'neznosen', 'težek', 'butara', 'breme']
+Hole 419: ['tujina', 'tuj', 'neznan', 'nerazumljiv', 'zmeden', 'osupel', 'prestrašeno', 'odhiteti', 'prišedšiti', 'spotoma', 'domov', 'domačija', 'dom']
+Hole 427: ['ponosen', 'ponosno', 'samozavestno', 'malomarno', 'ironičen', 'prezirljiv', 'dobrohoten', 'odkritosrčen', 'iskren', 'plemenit', 'blag']
+Hole 461: ['skopariti', 'varčevati', 'varčen', 'priden', 'ubogljiv', 'postrežljiv', 'vljuden', 'vljudno', 'dobrohotno', 'porogljivo', 'strahopetec', 'lopov', 'slepar', 'slepariti', 'opehariti', 'zapiti', 'zapraviti', 'potrata', 'zapravljati']
+Hole 498: ['neizrečno', 'nepopisno', 'nasmehljaj', 'smehljaj', 'smehljati', 'smejati', 'krohotati', 'zmerjati', 'pretepati', 'neusmiljeno', 'strašno', 'grozno', 'silno', 'neizmerno', 'neizrečeno']

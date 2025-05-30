@@ -1,0 +1,24 @@
+Cluster 5:
+********************
+Hole 466: ['apostol', 'aposteljen', 'apostelen', 'kerstnik', 'arhangel', 'arhangelj', 'gelj', 'angelj', 'varhati', 'varh', 'var', 'variti', 'varjeti', 'varvati', 'ineti', 'ino', 'alj', 'clo', 'desiravno', 'perzadevati', 'perzadevanje', 'poter', 'terplja', 'britkig', 'britkiga', 'Kristusovig', 'Jezusovig', 'zusov', 'Kristusov', 'Jezusov']
+Hole 496: ['monštranec', 'ciborij', 'štolo', 'ogeren', 'plajš', 'ogernjen', 'škerlatast', 'ternji', 'gajžlan', 'tepenje', 'zasramovanje', 'zasmehovanje', 'obrekovanje', 'nespodobnost', 'nespodoben', 'pregrešen', 'nečimern', 'nečimernost', 'vost', 'krotkost', 'pežljivost', 'poter', 'vsmilenje', 'vsmilen', 'ofrati', 'ofer', 'nekervav', 'nekervavo', 'altarja', 'tabernakelj', 'altar']
+
+Cluster 0:
+********************
+Hole 23: ['bolno', 'bolan', 'zboleti', 'prehladiti', 'kašljati', 'kremžiti', 'poredno', 'pomilovalno', 'sočutno']
+Hole 156: ['ludo', 'slavan', 'nebla', 'draškovič', 'sibinjanin', 'juriš', 'svak']
+Hole 250: ['dvozvezdje', 'takooo', 'dolenec', 'domače', 'kratkočasovati', 'neizpolnitev']
+Hole 265: ['ubožati', 'opomoči', 'okrevati', 'odleči', 'umiriti', 'potolažiti', 'zjokati', 'smiliti', 'ubog', 'ubožen', 'zadolžen', 'premožen']
+Hole 292: ['sklicati', 'posvetovati', 'pogovoriti', 'pomenkovati', 'zabavati', 'zabava', 'veselica', 'gostija', 'povabljen', 'povabiti', 'prisesti', 'pristopiti', 'stopiti', 'iti', 'priti', 'pozvati', 'poklicati']
+Hole 345: ['prekanjen', 'zvijačen', 'predrzen', 'nesramno', 'hudobno', 'zaničljivo', 'nevoljno', 'dragar', 'krčmarica', 'krčmar', 'polič', 'prigrizniti', 'pečenka', 'puran', 'pišče', 'mačka', 'lisjak', 'lisica']
+Hole 347: ['slaboumen', 'pohabljen', 'bolehav', 'bolehen', 'bolan', 'zdravnik', 'mazač', 'postopač', 'ničvreden', 'slepar']
+Hole 370: ['blebetati', 'molčati', 'mrmrati', 'polglasno', 'smehljaje', 'gospodična', 'koketen', 'igralka', 'balet', 'ples', 'veselica', 'zabava', 'zabavati', 'kramljati', 'razgovarjati', 'govoriti']
+Hole 373: ['culica', 'kovček', 'sturm', 'groll', 'mučno', 'neznosen', 'težek', 'butara', 'breme']
+Hole 419: ['tujina', 'tuj', 'neznan', 'nerazumljiv', 'zmeden', 'osupel', 'prestrašeno', 'odhiteti', 'prišedšiti', 'spotoma', 'domov', 'domačija', 'dom']
+Hole 424: ['pičica', 'poeta', 'predplačan', 'priziveti', 'kačar', 'gašper', 'matjažev', 'minuli', 'zadnji', 'konec']
+Hole 427: ['ponosen', 'ponosno', 'samozavestno', 'malomarno', 'ironičen', 'prezirljiv', 'dobrohoten', 'odkritosrčen', 'iskren', 'plemenit', 'blag']
+Hole 450: ['koderkoli', 'kamorkoli', 'kamor', 'kjer', 'tam', 'tamle', 'kajne', 'dejati', 'vprašati', 'čegav', 'kje', 'kam', 'nikamor', 'predaleč', 'tod', 'daleč']
+Hole 461: ['skopariti', 'varčevati', 'varčen', 'priden', 'ubogljiv', 'postrežljiv', 'vljuden', 'vljudno', 'dobrohotno', 'porogljivo', 'strahopetec', 'lopov', 'slepar', 'slepariti', 'opehariti', 'zapiti', 'zapraviti', 'potrata', 'zapravljati']
+Hole 471: ['domovje', 'dom', 'domov', 'francka', 'franci', 'počasi', 'previdno', 'varno', 'zavetje', 'varen']
+Hole 482: ['naučiti', 'izučiti', 'rokodelstvo', 'rokodelec', 'črevljar', 'kramar', 'oderuh', 'slepar', 'lažnjivec', 'lagati', 'verjeti', 'razumeti', 'umeti', 'znati']
+Hole 498: ['neizrečno', 'nepopisno', 'nasmehljaj', 'smehljaj', 'smehljati', 'smejati', 'krohotati', 'zmerjati', 'pretepati', 'neusmiljeno', 'strašno', 'grozno', 'silno', 'neizmerno', 'neizrečeno']
